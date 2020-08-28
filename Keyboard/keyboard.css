@@ -70,3 +70,8 @@
 .keyboard__key--dark{
     background: rgba(0, 0, 0, 0.25);
 }
+
+.heading{
+    color: #004134;
+    font-family: monospace, 'Courier New', Courier;
+}
